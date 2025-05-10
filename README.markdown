@@ -14,16 +14,6 @@ A Java-based console application for managing hotel operations, including room b
 - Java Development Kit (JDK) 8 or later.
 - A terminal or command-line interface.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/hotel-management-system.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd hotel-management-system
-   ```
-
 ## Usage
 1. Compile the Java code:
    ```bash
@@ -41,15 +31,6 @@ A Java-based console application for managing hotel operations, including room b
    - Check out (option 5).
    - Exit (option 6).
 
-## File Structure
-```
-hotel-management-system/
-├── src/
-│   └── HotelManagementSystem.java  # Main Java source code
-├── README.md                      # Project documentation
-├── .gitignore                     # Git ignore file
-└── LICENSE                        # MIT License
-```
 
 ## Notes
 - The program saves data to `hotel_data.dat` in the project directory.
