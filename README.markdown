@@ -31,6 +31,9 @@ A Java-based console application for managing hotel operations, including room b
    - Check out (option 5).
    - Exit (option 6).
 
+## Contributors
+- Nimmagadda Sujay
+- Shruthika Sunku
 
 ## Notes
 - The program saves data to `hotel_data.dat` in the project directory.
